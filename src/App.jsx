@@ -1,16 +1,18 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import lodearriba from './top'
+// ADRI, Tdoo esto creo que sobra. El tema de los logos es, que como veras en el archivo original, estaban los logos de react y vite metidos en una carpeta. Los he eliminado
+// import { useState } from 'react'
+// import reactLogo from './assets/react.svg'
+// import viteLogo from '/vite.svg'
+// import lodearriba from './top' 
+
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
-  const [agrupar, sumarMas] = useState(1)
-  const [contabilizar, quitar] = useState(0)
+  // const [count, setCount] = useState(0)
+  // const [agrupar, sumarMas] = useState(1)
+  // const [contabilizar, quitar] = useState(0)
 
-  
-  
+   
+  // Adri, todo este tema de los Var habra que tocarlo.Basicamente creo que esto es la funcion para el listado de los empleados
     var patata1 = 1 
     var almacenamiento = [];
     for (var i = 0; i < movidas.length; i++) {

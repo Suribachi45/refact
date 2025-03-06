@@ -1,3 +1,5 @@
+
+// Adri, he creado esta carpeta y he metido aqui a todos los empleados. Tambien he cambiado var por const y el nombre de movidas por employees. Lo he sacado todo del  App.jsx.
 const employees = [
     { name: 'Juan', lastName: 'Perez', hobbies: ['fútbol', 'lectura'], age: 25 },
     { name: 'María', lastName: 'González', hobbies: ['pintura', 'música'], age: 30 },
